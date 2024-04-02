@@ -1,0 +1,16 @@
+.idea
+*/__pycache__
+*.log
+
+# Input files
+*.csv
+*.rf2
+*.txt
+
+# Pickled ontology
+*.pkl
+*.ont
+
+# Config
+config.json
+
